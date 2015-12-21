@@ -3,4 +3,5 @@ var reverseANumber = function (num) {
 };
 
 var result = reverseANumber(12345);
+console.log('bindhu');
 console.log('The reversed no. is ',result);
